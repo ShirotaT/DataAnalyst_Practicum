@@ -1,5 +1,6 @@
 # DataAnalyst_Practicum
 My portfolio project from Practium Indonesia bootcamp.
+
 These projects were completed from Practicum's Data Analyst professional training programs.
 
 | Project name | Description | Libraries used | 
