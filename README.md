@@ -1,9 +1,6 @@
 # DataAnalyst_Practicum
-My Data Analyst portfolio project from Practium Indonesia bootcamp
-
-## An example of project desriptions in README.md
-
-These projects were completed for Practicum's Data Analyst / Data Scientist professional training programs.
+My portfolio project from Practium Indonesia bootcamp.
+These projects were completed for Practicum's Data Analyst professional training programs.
 
 | Project name | Description | Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
