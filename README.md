@@ -7,4 +7,4 @@ These projects were completed for Practicum's Data Analyst / Data Scientist prof
 
 | Project name | Description | Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Analisis Musik di Kota Besar](Project_1.music_project_en) | Membandingkan preferensi musik pengguna di kota Springfield dan Shelbyville. | *pandas* |
+| [Project 1: Analisis Musik di Kota Besar](Project_1.music_project_en) | Membandingkan preferensi musik pengguna di kota Springfield dan Shelbyville. | *pandas* |
