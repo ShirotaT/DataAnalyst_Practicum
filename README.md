@@ -1,5 +1,5 @@
 # Data Analyst Practicum Indonesia Project
-My portfolio project from Practium Indonesia bootcamp.
+My portfolio project from Practicum Indonesia bootcamp.
 
 These projects were completed from Practicum's Data Analyst professional training programs.
 
