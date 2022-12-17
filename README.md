@@ -6,3 +6,4 @@ These projects were completed from Practicum's Data Analyst professional trainin
 | Project name | Description | Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [Project 1: Musik di Kota Besar Analysis](Project_1.music_project_en) | Compares music preferences of users in the cities of Springfield and Shelbyville. | *pandas* |
+| [Project 2: Menganalisis Risiko Gagal Bayar Peminjam](Project_2.credit_scoring_eng) | WORK IN PROGRESS | *pandas* |
