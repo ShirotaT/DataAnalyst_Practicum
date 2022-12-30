@@ -23,7 +23,7 @@ creds.js
 
 # Private Files
 *.json
-/Project_3/vehicles_us.csv
+DataAnalyst_Practicum/Project_3/vehicles_us.csv
 *.csv.gz
 *.tsv
 *.tsv.gz
