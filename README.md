@@ -1,7 +1,7 @@
-# Data Analyst Practicum Indonesia Project
-My portfolio project from Practicum Indonesia bootcamp.
+# Data Analyst Tripleten (ex-Practicum) Indonesia Project
+My portfolio project from Tripleten Indonesia bootcamp.
 
-These projects were completed from Practicum's Data Analyst professional training programs.
+These projects were completed from Tripleten's Data Analyst professional training programs.
 
 | Project name | Description | Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
@@ -11,3 +11,8 @@ These projects were completed from Practicum's Data Analyst professional trainin
 | [Project 4: Telecommunication Company Analysis](Project_04.megaline) | Determine which prepaid plan generates more revenue to match advertising budget. | *pandas*, *matplotlib*, *seaborn*, *numpy*, *scipy* |
 | [Project 5: Game Company Analysis](Project_05.games) | Identify the patterns that determine whether a game is successful or not and then find the most potential games and plan the advertising campaign. | *pandas*, *matplotlib*, *seaborn*, *numpy*, *scipy* |
 | [Project 6: Online-based Transportation Company Analysis](Project_06.cabs) | Find patterns in available information to understand passenger preferences and the impact of external factors on travel. Then analyze data from competitors and test hypotheses regarding the influence of weather on travel frequency. | *pandas*, *matplotlib*, *seaborn*, *scipy* |
+| [Project 7: Department Analytics Y.Afisha Company Analysis](Project_07.y_afisha) | Optimizing the marketing budget. | *pandas*, *matplotlib*, *seaborn*, *scipy*, *numpy* |
+| [Project 8: Online Store Analysis](Project_08.online_store) | Develop a list of hypotheses to help increase revenue. | *pandas*, *matplotlib*, *seaborn*, *scipy*, *numpy* |
+| [Project 9: Cafe Restaurant LA Analysis](Project_09.market_research) | Attract investors with market analysis. | *pandas*, *matplotlib*, *seaborn*, *scipy*, *numpy* |
+
+
